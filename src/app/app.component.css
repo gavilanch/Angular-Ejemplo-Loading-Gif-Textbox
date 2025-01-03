@@ -1,0 +1,12 @@
+a {
+    margin-left: 1rem;
+}
+
+mat-form-field {
+    width: 100%;
+    max-width: 400px;
+}
+
+.container{
+    margin: 0 200px
+}
